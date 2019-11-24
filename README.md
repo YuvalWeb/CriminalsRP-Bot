@@ -1,2 +1,2 @@
 # CriminalsRP-Bot
-CriminalsRP Bot
+CriminalsRP Bot Zip
